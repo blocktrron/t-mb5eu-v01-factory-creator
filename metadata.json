@@ -1,0 +1,1 @@
+{  "metadata_version": "1.1", "compat_version": "1.0",   "supported_devices":["mt7621-dm2-t-mb5eu-v01-nor"], "version": { "dist": "OpenWrt", "version": "SNAPSHOT", "revision": "r16634+23-5d8ea6d34f", "target": "ramips/mt7621", "board": "mt7621-dm2-t-mb5eu-v01-nor" } }
